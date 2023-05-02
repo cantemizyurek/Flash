@@ -1,0 +1,22 @@
+{
+  "name": "flash",
+  "version": "0.0.1",
+  "description": "A speed comparison libary",
+  "main": "Flash.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "speed"
+  ],
+  "author": "Can Temizyurek",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
